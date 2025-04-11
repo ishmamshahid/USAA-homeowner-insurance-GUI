@@ -1,0 +1,6 @@
+Number of Bathrooms,Other Perils,Fire,Other Wind and Hail,Theft,Water,Liability,Hurricane,Severe Thunderstorm,Winter Storm,Earthquake
+1 or fewer,1.0,1.0,1.0,1.0,0.8064,1.0,1.0,1.0,1.0,1.0
+2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+3,1.0,1.0,1.0,1.0,1.1799,1.0,1.0,1.0,1.0,1.0
+4,1.0,1.0,1.0,1.0,1.3349,1.0,1.0,1.0,1.0,1.0
+5+,1.0,1.0,1.0,1.0,1.4898,1.0,1.0,1.0,1.0,1.0

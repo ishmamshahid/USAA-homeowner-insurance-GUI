@@ -1,0 +1,33 @@
+Insurance Score (ChoicePoint AttractTM One),Enterprise Tenure (months),Value
+Range 1 (901-997),0-9999,CA
+Range 2 (861-900),0-9999,CB
+Range 3 (821-860),0-9999,CC
+Range 4 (801-820),0-9999,CD
+Range 5 (781-800),0-9999,CE
+Range 6 (761-780),0-9999,CF
+Range 7 (721-760),0-9999,CG
+Range 8 (701-720),0-9999,CH
+Range 9 (681-700),0-9999,CI
+Range 10 (661-680),0-299,CJ
+Range 10 (661-680),300-9999,CI
+Range 11 (641-660),0-299,CK
+Range 11 (641-660),300-9999,CI
+Range 12 (621-640),0-299,CL
+Range 12 (621-640),300-9999,CI
+Range 13 (601-620),0-299,CM
+Range 13 (601-620),300-9999,CI
+Range 14 (581-600),0-299,CN
+Range 14 (581-600),300-9999,CI
+Range 15 (561-580),0-299,CO
+Range 15 (561-580),300-9999,CI
+Range 16 (541-560),0-299,CP
+Range 16 (541-560),300-9999,CI
+Range 17 (521-540),0-299,CQ
+Range 17 (521-540),300-9999,CI
+Range 18 (501-520),0-299,CR
+Range 18 (501-520),300-9999,CI
+Range 19 (1-500),0-299,CS
+Range 19 (1-500),300-9999,CI
+Credit Score Unavailable,0-9999,CT
+No Hit,0-9999,CU
+No Score,0-9999,CV

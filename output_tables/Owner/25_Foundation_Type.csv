@@ -1,0 +1,9 @@
+Foundation,Other Perils,Fire,Other Wind and Hail,Theft,Water,Liability,Hurricane,Severe Thunderstorm,Winter Storm,Earthquake
+Crawlspace,1,1,1,1,0.9043,1,1,1,1,1
+Pier,1,1,1,1,0.9043,1,1,1,1,1
+Slab,1,1,1,1,0.9043,1,1,1,1,1
+Basement <25% finished,1,1,1,0.9155,0.9043,1,0.9877,1,1,1
+Basement 25-49% finished,1,1,1,0.9155,1,1,0.9877,1,1,1
+Basement 50-74% finished,1,1,1,0.9155,1,1,0.9877,1,1,1
+Basement 75-99% finished,1.1707,1,1,0.9155,1.2073,1,0.9877,1,1,1
+Basement 100% finished,1.1707,1,1,0.9155,1.3379,1,0.9877,1,1,1
